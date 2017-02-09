@@ -11,8 +11,8 @@ python cityDistance.py
 It'll then ask you for the two places and your transporation method.
 
 # Output
-```
 New York --> San Francisco ~ Driving
+```
 =====================================
      Distance between 2 places       
 =====================================
@@ -22,8 +22,8 @@ Mode: Driving
 Duration: 1 day 18 hours
 Distance: 4,671 km
 ```
-```
 New York --> San Francisco ~ Walking
+```
 =====================================
      Distance between 2 places       
 =====================================
