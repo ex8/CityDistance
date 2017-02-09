@@ -18,7 +18,7 @@ def result(origin, destination, duration, distance, mode):
 
 
 def calculate(city1, city2, mode):
-    gmap = googlemaps.Client(key='AIzaSyA5IMAMDba1savLG8D9R5a_VMG0x_bi7Fk')
+    gmap = googlemaps.Client(key='API_KEY_HERE')
     d = distance_matrix(gmap, city1, city2, mode=mode)
     data = json.loads(json.dumps(d))
 
