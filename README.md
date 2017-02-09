@@ -2,7 +2,7 @@
 Find the distance between two places using Google Maps' Distance Matrix API.
 
 # Requirements
-Must register and obtain a Google Maps' Distance Matrix API Key. Link: https://developers.google.com/maps/
+Must register and obtain a Google Maps' Distance Matrix API Key. Link: https://developers.google.com/maps/ and add the key to the calculate function.
 
 # Usage
 python cityDistance.py
